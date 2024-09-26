@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "4338a1a651169942",
+    "type": "split",
+    "children": [
+      {
+        "id": "caf5fd549eff8c6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70c610e3246da784",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Auth/Section1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "204a72448c4cfdd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "72c77eb1a32cfc38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c62dd1fb6c2d0639",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2f586362b3c187e5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e8cd5cf1b753dcca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "02e649406373b840",
+    "type": "split",
+    "children": [
+      {
+        "id": "61a5e4bb04bb466a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "084f7bb6e1fb7264",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Auth/Section1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7e3727d2ce225f17",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Auth/Section1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "602bc9d0afd48afd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c10f3266ddc415a2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Auth/Section1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "70c610e3246da784",
+  "lastOpenFiles": [
+    "Auth/Readme.md",
+    "Section3.pdf",
+    "Readme.pdf",
+    "Section9.pdf",
+    "Section8.pdf",
+    "Section6.pdf",
+    "Section5.pdf",
+    "Section4.pdf",
+    "Section2.pdf",
+    "PolicyAndFramework.pdf",
+    "Draft1.pdf",
+    "Auth/Section9.md",
+    "Auth/Section8.md",
+    "Auth/Section7.md",
+    "Auth/Section6.md",
+    "Auth/Section5.md",
+    "Auth/Section4.md",
+    "Auth/Section3.md",
+    "Auth/Section2.md",
+    "Auth/Section1.md",
+    "PolicyAndFramework.md",
+    "Untitled.canvas"
+  ]
+}

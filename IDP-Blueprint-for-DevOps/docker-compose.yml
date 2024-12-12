@@ -73,6 +73,8 @@ services:
       - PING_INSTANCE_NAME=authZEN
       - JSON_API_HEADER_NAME=client
       - PDP_SHARED_SECRET=password123
+      - SIDEBAND_SECRET_HEADER_NAME=CLIENT_TOKEN
+      - SIDEBAND_SERVICE=SIDEBAND
       - POLICY_NODE_ID=6ae6edd5-0283-4ec8-ac84-08df56df1f63
       - DEPLOYMENT_PACKAGE</opt/staging/pd.profile/Deployment-Package-cf45b188-2d1c-4bde-ab37-6c3dab34ab80.deploymentpackage
       - POLICY_BRANCH=AuthZen

@@ -11,11 +11,9 @@
             "id": "70c610e3246da784",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Auth/Section1.md",
-                "mode": "source",
-                "source": false
+                "file": "Draft1.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Auth/Section1.md",
+                "file": "Draft1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Auth/Section1.md",
+                "file": "Draft1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Auth/Section1.md"
+                "file": "Draft1.pdf"
               }
             }
           }
@@ -149,6 +147,8 @@
   "active": "70c610e3246da784",
   "lastOpenFiles": [
     "Auth/Readme.md",
+    "Auth/Section3.md",
+    "Auth/Section1.md",
     "Section3.pdf",
     "Readme.pdf",
     "Section9.pdf",
@@ -165,9 +165,7 @@
     "Auth/Section6.md",
     "Auth/Section5.md",
     "Auth/Section4.md",
-    "Auth/Section3.md",
     "Auth/Section2.md",
-    "Auth/Section1.md",
     "PolicyAndFramework.md",
     "Untitled.canvas"
   ]

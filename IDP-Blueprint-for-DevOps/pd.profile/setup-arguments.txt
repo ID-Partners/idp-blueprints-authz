@@ -1,0 +1,1 @@
+demo  --adminUsername admin --generateSelfSignedCertificate --enableSelfGovernance --decisionPointSharedSecret 2FederateM0re --hostname 127.0.0.1 --port 8443 --adminPort 9444 --licenseKeyFile /config/pingauthorize.lic --ignoreWarnings

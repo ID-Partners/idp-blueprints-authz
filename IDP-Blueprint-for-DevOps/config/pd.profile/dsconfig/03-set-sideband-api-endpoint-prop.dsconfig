@@ -1,0 +1,13 @@
+
+dsconfig create-sideband-api-shared-secret \
+    --secret-name sideband  \
+    --set shared-secret:AAAPCpICxhFr9/MmUCLMBO7/84B5n9FPTvA= 
+
+dsconfig set-http-servlet-extension-prop \
+    --extension-name 'Sideband API'  \
+    --set shared-secret-header-name:CLIENT-TOKEN  \
+    --set shared-secrets:sideband 
+
+dsconfig set-sideband-api-endpoint-prop \
+    --endpoint-name Default  \
+    --set service:AuthZen 

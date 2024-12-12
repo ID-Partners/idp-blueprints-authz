@@ -1,0 +1,14 @@
+ID=00707693
+SCIMOnly=false
+PDPAPI=true
+Product=PingAuthorize
+Version=10.1
+EnforcementType=3
+Tier=Free
+IssueDate=2024-09-04
+ExpirationDate=2025-03-04
+GracePeriod=1
+DeploymentMethod=Docker
+Organization=ID Partners Pty Ltd
+SignCode=FF0F
+Signature=302D0214650C1DAD3F8848EECF64C027E47C1AC88ABD529F02150093986C7002155C4D1DD0F0DA9C0C55F677020375
